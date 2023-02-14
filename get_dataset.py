@@ -1,3 +1,4 @@
+#Run this file it has combined preprocess portions on itself too 
 import pre_process as pp
 import os
 import pandas as pd 
